@@ -1,0 +1,15 @@
+
+
+PICK AN NUMBER ,i WILL PUT IN ANIMATION THERE!
+small animation in the bakgroud; Maybe bubl busting;
+
+create an if statement that checks if the stop is running for  stop funtion
+
+create a modal which show ball bouncing in 
+
+diappering animation
+
+
+formating the modeal contents
+seprate them with some thing better 
+and win or loos resutls inside modal
